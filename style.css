@@ -1,0 +1,111 @@
+@import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;800;900&display=swap);
+
+
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: lightgreen;
+    width: 100vw;
+  
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+    
+    display: flex;
+    flex-direction: column;
+    width: 1920px;
+    height: 1080px;
+    background: url(./sarah-dorweiler-x2Tmfd1-SgA-unsplash\ 1.png);
+
+}
+
+.header {
+    width: 1920px;
+    height: 77px;
+}
+
+.main {
+    display: flex;
+}
+
+.a {
+    font-style: italic;
+    font-weight: 800;
+    line-height: 145%;
+    color: #40513B;
+    font-family: Montserrat;
+    font-size: 70px;
+    
+}
+
+.aa {
+    color: #609966;
+    font-family: Montserrat;
+    font-size: 70px;
+    font-style: italic;
+    font-weight: 800;
+    line-height: 145%;
+}
+
+.bbbb {
+    font-style: normal;
+    font-weight: 400;
+    line-height: 145%;
+    color: #609966;
+    font-family: Montserrat;
+    font-size: 30px;
+    
+    /* 43.5px */
+}
+.c{
+    position: relative;
+    left:1015px;
+    top:282px;
+    width:733px;
+    display: flex;
+    justify-content: space-between;
+}
+.b{
+    position: relative;
+    left: 280px;
+    top: 454px;
+}
+.list{
+    width:1000px;
+    display:flex;
+    margin-top: 40px;
+    margin-left: 761px;
+    left:761px
+}
+.navbars{
+    color: #609966;
+font-family: Montserrat;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 145%; /* 34.8px */
+margin-left:30px;
+}
+.logo_text{
+    color: #40513B;
+font-family: Kristen ITC;
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.logo{
+    width: 150px;
+    display: flex;
+    margin-top: 30px;
+}
+.header{
+    display: flex;
+    margin: 0 auto;
+}
